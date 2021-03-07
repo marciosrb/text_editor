@@ -1,0 +1,16 @@
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.csprojAssemblyReference.cache
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\Users\Márcio\Desktop\Meus Projetos\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
